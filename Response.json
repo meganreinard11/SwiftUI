@@ -1,0 +1,2714 @@
+{
+    "data": {
+        "locationBySearchTerm": {
+            "countryCode": "US",
+            "displayName": null,
+            "latitude": 40.082367,
+            "longitude": -83.171379,
+            "regionCode": null,
+            "stations": {
+                "count": 340,
+                "cursor": {
+                    "next": "20",
+                    "__typename": "Cursor"
+                },
+                "results": [
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "6233 Avery Rd",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43016",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "139",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/139.png",
+                                "name": "Turkey Hill",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "139",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/139.png",
+                                "name": "Turkey Hill",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.06mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "207559",
+                        "isFuelmanSite": false,
+                        "name": "Turkey Hill",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5207559-3-4-4-4-H7kNRCjjixyM8dQD57f90i9",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": null,
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T20:41:26.801Z",
+                                    "price": 3.16,
+                                    "formattedPrice": "$3.16",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "jeffandsherri",
+                                    "postedTime": "2025-11-07T15:04:01.740Z",
+                                    "price": 3.79,
+                                    "formattedPrice": "$3.79",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "jeffandsherri",
+                                    "postedTime": "2025-11-07T15:04:01.756Z",
+                                    "price": 4.39,
+                                    "formattedPrice": "$4.39",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "jeffandsherri",
+                                    "postedTime": "2025-11-07T15:04:01.756Z",
+                                    "price": 3.85,
+                                    "formattedPrice": "$3.85",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 34,
+                        "starRating": 4.6,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "7100 Hospital Dr",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43017",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "74",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/74.png",
+                                "name": "Kroger",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "74",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/74.png",
+                                "name": "Kroger",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.49mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "140205",
+                        "isFuelmanSite": false,
+                        "name": "Kroger",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 2¢ per gallon",
+                                        "pwgbDiscount": "0.02",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 3¢ per gallon",
+                                "id": "H5140205-3-2-2-2-Hdn8gY45SwEhZzjE0klDm2p",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "srgamlin",
+                                    "postedTime": "2025-11-08T21:56:08.110Z",
+                                    "price": 3.17,
+                                    "formattedPrice": "$3.17",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 257,
+                        "starRating": 4.4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "5171 Riggins Rd",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.50mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "207656",
+                        "isFuelmanSite": false,
+                        "name": "United Dairy Farmers",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5207656-3-3-4-4-H8Ybj2Mt7iifBOCWj2DffLf",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": null,
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T22:37:38.589Z",
+                                    "price": 3.13,
+                                    "formattedPrice": "$3.13",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T22:37:38.605Z",
+                                    "price": 3.63,
+                                    "formattedPrice": "$3.63",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T22:37:38.620Z",
+                                    "price": 4.13,
+                                    "formattedPrice": "$4.13",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T22:37:38.636Z",
+                                    "price": 3.87,
+                                    "formattedPrice": "$3.87",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 160,
+                        "starRating": 4.8,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "6695 Perimeter Loop",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43017",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "122",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/122.png",
+                                "name": "Shell",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "122",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/122.png",
+                                "name": "Shell",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.52mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "109",
+                        "isFuelmanSite": false,
+                        "name": "Shell",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 2¢ per gallon",
+                                        "pwgbDiscount": "0.02",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 3¢ per gallon",
+                                "id": "H5109-3-2-2-2-H445wSscS80Wg0vkq2TEowI",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T20:10:23.558Z",
+                                    "price": 3.17,
+                                    "formattedPrice": "$3.17",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 280,
+                        "starRating": 4.5,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "6725 Perimeter Loop Rd",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43017-3200",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "180",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/180.png",
+                                "name": "GetGo",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.56mi",
+                        "emergencyStatus": null,
+                        "enterprise": true,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "501",
+                        "isFuelmanSite": false,
+                        "name": "GetGo",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5501-3-3-4-H92dNcScDrWAxdq3ulL1w1s",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:37.710Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:37.710Z",
+                                    "price": 3.59,
+                                    "formattedPrice": "$3.59",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:37.726Z",
+                                    "price": 4.09,
+                                    "formattedPrice": "$4.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 397,
+                        "starRating": 4.6,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "6780 Hayden Run Rd",
+                            "line2": "",
+                            "locality": "Columbus",
+                            "postalCode": "43026-8262",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "180",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/180.png",
+                                "name": "GetGo",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.60mi",
+                        "emergencyStatus": null,
+                        "enterprise": true,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "40939",
+                        "isFuelmanSite": false,
+                        "name": "GetGo",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H540939-3-3-4-Haih8eveutJWA26rJcJFYZD",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:18.151Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:18.167Z",
+                                    "price": 3.59,
+                                    "formattedPrice": "$3.59",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:18.182Z",
+                                    "price": 4.09,
+                                    "formattedPrice": "$4.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 220,
+                        "starRating": 4.5,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "5350 Tuttle Crossing Blvd",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43016",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "139",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/139.png",
+                                "name": "Turkey Hill",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "139",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/139.png",
+                                "name": "Turkey Hill",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.65mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "108",
+                        "isFuelmanSite": false,
+                        "name": "Turkey Hill",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5108-3-4-4-4-H2397qD4sAIMu9OqZJDEDiF",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:49.789Z",
+                                    "price": 3.23,
+                                    "formattedPrice": "$3.23",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:49.805Z",
+                                    "price": 3.77,
+                                    "formattedPrice": "$3.77",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:49.821Z",
+                                    "price": 4.37,
+                                    "formattedPrice": "$4.37",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:49.836Z",
+                                    "price": 3.89,
+                                    "formattedPrice": "$3.89",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 264,
+                        "starRating": 4.3,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "5340 Tuttle Crossing Blvd",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43016",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "122",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/122.png",
+                                "name": "Shell",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "1.68mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "110",
+                        "isFuelmanSite": false,
+                        "name": "Shell",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 2¢ per gallon",
+                                        "pwgbDiscount": "0.02",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 3¢ per gallon",
+                                "id": "H5110-3-2-2-2-HapWl76nq37kpDtjbmWj66n",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "ChristyDalzell",
+                                    "postedTime": "2025-11-08T19:48:23.298Z",
+                                    "price": 3.23,
+                                    "formattedPrice": "$3.23",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": null,
+                                    "postedTime": null,
+                                    "price": 0,
+                                    "formattedPrice": "- - -",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 220,
+                        "starRating": 4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "7300 OH-161 E",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43064",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "38",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/38.png",
+                                "name": "Costco",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "38",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/38.png",
+                                "name": "Costco",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "2.01mi",
+                        "emergencyStatus": null,
+                        "enterprise": true,
+                        "fuels": [
+                            "regular_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "189503",
+                        "isFuelmanSite": false,
+                        "name": "Costco",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 2¢ per gallon",
+                                        "pwgbDiscount": "0.02",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5189503-3-2-4-3-HbR7RE6kAJL6AsSyaedPcTg",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": false,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "wanderD",
+                                    "postedTime": "2025-11-08T21:18:42.080Z",
+                                    "price": 2.79,
+                                    "formattedPrice": "$2.79",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "wanderD",
+                                    "postedTime": "2025-11-08T21:18:42.087Z",
+                                    "price": 3.79,
+                                    "formattedPrice": "$3.79",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gramms151218",
+                                    "postedTime": "2025-11-08T18:48:08.913Z",
+                                    "price": 3.56,
+                                    "formattedPrice": "$3.56",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 1189,
+                        "starRating": 4.7,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "5099 TUTTLE CROSSING BLVD",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43016",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "23",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/23.png",
+                                "name": "BP",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "2.16mi",
+                        "emergencyStatus": null,
+                        "enterprise": true,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "423",
+                        "isFuelmanSite": false,
+                        "name": "BP",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5423-3-4-4-H3C42psIo6bp8EmXwyKjkZM",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T02:11:15.134Z",
+                                    "price": 3.22,
+                                    "formattedPrice": "$3.22",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "elf_jr",
+                                    "postedTime": "2025-11-06T02:36:24.286Z",
+                                    "price": 3.77,
+                                    "formattedPrice": "$3.77",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "elf_jr",
+                                    "postedTime": "2025-11-06T02:36:24.317Z",
+                                    "price": 4.27,
+                                    "formattedPrice": "$4.27",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 121,
+                        "starRating": 3.8,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "5025 Tuttle Crossing Blvd",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43016-1533",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "2.30mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "341",
+                        "isFuelmanSite": false,
+                        "name": "United Dairy Farmers",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5341-3-3-4-4-H8XVAMWvxOgrhwIWMfagRvr",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T20:10:49.632Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T20:21:14.058Z",
+                                    "price": 3.59,
+                                    "formattedPrice": "$3.59",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T20:21:14.073Z",
+                                    "price": 4.09,
+                                    "formattedPrice": "$4.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T05:18:50.838Z",
+                                    "price": 3.97,
+                                    "formattedPrice": "$3.97",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 314,
+                        "starRating": 4.4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "215 W Bridge St",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43017-1144",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "87",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/87.png",
+                                "name": "Marathon",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "2.92mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "188",
+                        "isFuelmanSite": false,
+                        "name": "Marathon",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5188-3-4-4-HbdrgfVCizDd82o1FreT4BC",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:08:04.216Z",
+                                    "price": 3.29,
+                                    "formattedPrice": "$3.29",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:08:04.231Z",
+                                    "price": 3.79,
+                                    "formattedPrice": "$3.79",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:08:04.254Z",
+                                    "price": 4.29,
+                                    "formattedPrice": "$4.29",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 105,
+                        "starRating": 3.1,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "201 W Bridge St",
+                            "line2": "",
+                            "locality": "Dublin",
+                            "postalCode": "43017-1144",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "122",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/122.png",
+                                "name": "Shell",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "2.99mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "57",
+                        "isFuelmanSite": false,
+                        "name": "Shell",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas",
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H557-3-4-4-H3ivS6Dv5lmBNeXAWwc6735",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:07:48.935Z",
+                                    "price": 3.25,
+                                    "formattedPrice": "$3.25",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:07:48.966Z",
+                                    "price": 3.85,
+                                    "formattedPrice": "$3.85",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-08T16:07:48.982Z",
+                                    "price": 4.45,
+                                    "formattedPrice": "$4.45",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 84,
+                        "starRating": 3,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "4235 Avery Rd",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026-1003",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "32",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/32.png",
+                                "name": "Circle K",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.13mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "36906",
+                        "isFuelmanSite": false,
+                        "name": "Circle K",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H536906-3-3-4-4-H9auuoS4Kn2RFva8JA5LigV",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:30.645Z",
+                                    "price": 3.13,
+                                    "formattedPrice": "$3.13",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:42.118Z",
+                                    "price": 3.63,
+                                    "formattedPrice": "$3.63",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T11:32:42.133Z",
+                                    "price": 4.13,
+                                    "formattedPrice": "$4.13",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-09T01:26:26.352Z",
+                                    "price": 3.99,
+                                    "formattedPrice": "$3.99",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 202,
+                        "starRating": 4.3,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "4144 Main St",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026-1437",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "130",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/130.png",
+                                "name": "Sunoco",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.28mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "88018",
+                        "isFuelmanSite": false,
+                        "name": "Sunoco",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H588018-3-3-4-H9d8gqeBbJFAiI6QfKl5hEV",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:00.818Z",
+                                    "price": 3.13,
+                                    "formattedPrice": "$3.13",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "ddorf2014",
+                                    "postedTime": "2025-11-07T22:01:34.500Z",
+                                    "price": 3.69,
+                                    "formattedPrice": "$3.69",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "ddorf2014",
+                                    "postedTime": "2025-11-07T22:01:34.500Z",
+                                    "price": 4.19,
+                                    "formattedPrice": "$4.19",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 74,
+                        "starRating": 3.4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "6558 Scioto Darby rd",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "122",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/122.png",
+                                "name": "Shell",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.44mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "207561",
+                        "isFuelmanSite": false,
+                        "name": "Shell",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5207561-3-3-4-4-Hc3YMTw55fYe0BvkP3bMnkI",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": null,
+                        "prices": [
+                            {
+                                "cash": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.693Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "credit": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.740Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.756Z",
+                                    "price": 3.69,
+                                    "formattedPrice": "$3.69",
+                                    "__typename": "FuelPrice"
+                                },
+                                "credit": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.772Z",
+                                    "price": 3.69,
+                                    "formattedPrice": "$3.69",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.803Z",
+                                    "price": 4.29,
+                                    "formattedPrice": "$4.29",
+                                    "__typename": "FuelPrice"
+                                },
+                                "credit": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.803Z",
+                                    "price": 4.29,
+                                    "formattedPrice": "$4.29",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T10:40:16.834Z",
+                                    "price": 3.49,
+                                    "formattedPrice": "$3.49",
+                                    "__typename": "FuelPrice"
+                                },
+                                "credit": {
+                                    "nickname": "aj515",
+                                    "postedTime": "2025-11-08T17:10:51.307Z",
+                                    "price": 3.99,
+                                    "formattedPrice": "$3.99",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 17,
+                        "starRating": 4.4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "3760 Main St",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026-1321",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "125",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/125.png",
+                                "name": "Speedway",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "125",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/125.png",
+                                "name": "Speedway",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.79mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel",
+                            "e85"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "6769",
+                        "isFuelmanSite": true,
+                        "name": "Speedway",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 16¢ per gallon",
+                                        "pwgbDiscount": "0.16",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 19¢ per gallon",
+                                        "pwgbDiscount": "0.19",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 23¢ per gallon",
+                                        "pwgbDiscount": "0.23",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 20¢ per gallon",
+                                        "pwgbDiscount": "0.20",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "e85"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 23¢ per gallon",
+                                "id": "H56769-16-19-23-20-3-HCJUNT4jzNcWIIznXR2QoJ",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "banner",
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": null,
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:03.812Z",
+                                    "price": 3.12,
+                                    "formattedPrice": "$3.12",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:03.828Z",
+                                    "price": 3.62,
+                                    "formattedPrice": "$3.62",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:03.828Z",
+                                    "price": 4.12,
+                                    "formattedPrice": "$4.12",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "gasburner2012",
+                                    "postedTime": "2025-11-08T12:27:03.843Z",
+                                    "price": 3.99,
+                                    "formattedPrice": "$3.99",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "ddorf2014",
+                                    "postedTime": "2025-11-07T22:04:31.329Z",
+                                    "price": 2.82,
+                                    "formattedPrice": "$2.82",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "e85",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 451,
+                        "starRating": 3.9,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "4640 Cemetery Rd",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026-1170",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "336",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/336.png",
+                                "name": "United Dairy Farmers",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.86mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "10724",
+                        "isFuelmanSite": false,
+                        "name": "United Dairy Farmers",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H510724-3-3-4-4-H9E9ifSTFEACg74YXcY2mkM",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Lizkins07",
+                                    "postedTime": "2025-11-08T19:42:03.083Z",
+                                    "price": 3.08,
+                                    "formattedPrice": "$3.08",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T22:22:40.868Z",
+                                    "price": 3.58,
+                                    "formattedPrice": "$3.58",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DataFeed",
+                                    "postedTime": "2025-11-08T22:22:40.884Z",
+                                    "price": 4.08,
+                                    "formattedPrice": "$4.08",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Lizkins07",
+                                    "postedTime": "2025-11-08T19:42:03.114Z",
+                                    "price": 3.77,
+                                    "formattedPrice": "$3.77",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 400,
+                        "starRating": 4.4,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "4051 Britton Pkwy",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "180",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/180.png",
+                                "name": "GetGo",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.88mi",
+                        "emergencyStatus": null,
+                        "enterprise": true,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "163130",
+                        "isFuelmanSite": false,
+                        "name": "GetGo",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H5163130-3-3-4-3-HcIBgVUiD43xgJYtdENvYFX",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:26.230Z",
+                                    "price": 3.08,
+                                    "formattedPrice": "$3.08",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:26.246Z",
+                                    "price": 3.58,
+                                    "formattedPrice": "$3.58",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:26.261Z",
+                                    "price": 4.08,
+                                    "formattedPrice": "$4.08",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "Owner",
+                                    "postedTime": "2025-11-09T02:01:26.277Z",
+                                    "price": 3.47,
+                                    "formattedPrice": "$3.47",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 397,
+                        "starRating": 4.6,
+                        "__typename": "Station"
+                    },
+                    {
+                        "address": {
+                            "country": "US",
+                            "line1": "4546 Cemetery Rd",
+                            "line2": "",
+                            "locality": "Hilliard",
+                            "postalCode": "43026-1170",
+                            "region": "OH",
+                            "__typename": "Address"
+                        },
+                        "badges": [],
+                        "brands": [
+                            {
+                                "brandId": "30",
+                                "brandingType": "cstore",
+                                "imageUrl": "https://images.gasbuddy.io/b/30.png",
+                                "name": "Certified",
+                                "__typename": "Brand"
+                            },
+                            {
+                                "brandId": "87",
+                                "brandingType": "fuel",
+                                "imageUrl": "https://images.gasbuddy.io/b/87.png",
+                                "name": "Marathon",
+                                "__typename": "Brand"
+                            }
+                        ],
+                        "distance": "3.89mi",
+                        "emergencyStatus": null,
+                        "enterprise": false,
+                        "fuels": [
+                            "regular_gas",
+                            "midgrade_gas",
+                            "premium_gas",
+                            "diesel"
+                        ],
+                        "hasActiveOutage": false,
+                        "id": "40549",
+                        "isFuelmanSite": false,
+                        "name": "Marathon",
+                        "offers": [
+                            {
+                                "discounts": [
+                                    {
+                                        "grades": [
+                                            "regular_gas",
+                                            "midgrade_gas",
+                                            "diesel"
+                                        ],
+                                        "highlight": "Deal Alert: Save 3¢ per gallon",
+                                        "pwgbDiscount": "0.03",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    },
+                                    {
+                                        "grades": [
+                                            "premium_gas"
+                                        ],
+                                        "highlight": "Deal Alert: Save 4¢ per gallon",
+                                        "pwgbDiscount": "0.04",
+                                        "receiptDiscount": null,
+                                        "__typename": "Discount"
+                                    }
+                                ],
+                                "highlight": "Deal Alert: Save up to 4¢ per gallon",
+                                "id": "H540549-3-3-4-3-H657QjpbOJLZugFlwvOPPbo",
+                                "types": [
+                                    "gasbuddy"
+                                ],
+                                "use": [
+                                    "strike",
+                                    "sort"
+                                ],
+                                "__typename": "Offer"
+                            }
+                        ],
+                        "payStatus": {
+                            "isPayAvailable": true,
+                            "__typename": "PayStatus"
+                        },
+                        "prices": [
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DogueMom",
+                                    "postedTime": "2025-11-08T14:43:06.106Z",
+                                    "price": 3.09,
+                                    "formattedPrice": "$3.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "regular_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DogueMom",
+                                    "postedTime": "2025-11-08T14:43:06.137Z",
+                                    "price": 3.59,
+                                    "formattedPrice": "$3.59",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "midgrade_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "DogueMom",
+                                    "postedTime": "2025-11-08T14:43:06.168Z",
+                                    "price": 4.09,
+                                    "formattedPrice": "$4.09",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "premium_gas",
+                                "__typename": "PriceReport"
+                            },
+                            {
+                                "cash": null,
+                                "credit": {
+                                    "nickname": "#12#_dieselboy98",
+                                    "postedTime": "2025-11-07T21:51:08.790Z",
+                                    "price": 3.47,
+                                    "formattedPrice": "$3.47",
+                                    "__typename": "FuelPrice"
+                                },
+                                "discount": 0,
+                                "fuelProduct": "diesel",
+                                "__typename": "PriceReport"
+                            }
+                        ],
+                        "priceUnit": "dollars_per_gallon",
+                        "ratingsCount": 192,
+                        "starRating": 4.2,
+                        "__typename": "Station"
+                    }
+                ],
+                "__typename": "StationResults"
+            },
+            "trends": [
+                {
+                    "areaName": "Columbus",
+                    "country": "US",
+                    "today": 3.1,
+                    "todayLow": 2.74,
+                    "trend": -1,
+                    "__typename": "Trend"
+                },
+                {
+                    "areaName": "Ohio",
+                    "country": "US",
+                    "today": 3.07,
+                    "todayLow": 2.35,
+                    "trend": -1,
+                    "__typename": "Trend"
+                },
+                {
+                    "areaName": "United States",
+                    "country": "US",
+                    "today": 3.08,
+                    "todayLow": 0,
+                    "trend": 0,
+                    "__typename": "Trend"
+                }
+            ],
+            "__typename": "Location"
+        }
+    }
+}
