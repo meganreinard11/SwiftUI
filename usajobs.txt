@@ -1,0 +1,504 @@
+https://www.usajobs.gov/search/results/?k=Analyst&l=
+
+
+<div id="search-results" class="mt-4"><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850072000" data-search-result="0" data-document-id="850072000" class="no-underline">Budget Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850072000" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Energy - Agency Wide</strong></p><p>Department of Energy</p><p>Lexington, Kentucky</p><p>Office of Environmental Management</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $124,531 Per year (GS 14)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-emergency" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/14/2025 to 11/21/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/848240700" data-search-result="1" data-document-id="848240700" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="848240700" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Army National Guard Units</strong></p><p>Department of the Army</p><p>Columbia, South Carolina</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $61,111 Per year (GS 9)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 10/16/2025 to 12/03/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850331600" data-search-result="2" data-document-id="850331600" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850331600" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Air Mobility Command</strong></p><p>Department of the Air Force</p><p>Charleston AFB, South Carolina</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $73,939 Per year (GS 11)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/18/2025 to 11/25/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/849079400" data-search-result="3" data-document-id="849079400" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="849079400" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Army National Guard Units</strong></p><p>Department of the Army</p><p>Boise, Idaho</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $61,111 Per year (GS 9)</p><p>THIS POSITION IS INDEFINITE, NTE 5 YEARS WITH THE POSSIBILITY TO NON-COMPETITIVELY CONVERT AT A LATER DATE. • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 10/29/2025 to 12/14/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/722317000" data-search-result="4" data-document-id="722317000" class="no-underline">Resource Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="722317000" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Central Intelligence Agency</strong></p><p>Other Agencies and Independent Organizations</p><p>Washington, District of Columbia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $81,576 Per year (GS 9-13)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S."><title>Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.</title><use xlink:href="/img/icons/hiringpaths.svg#public"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 10/01/2025 to 09/30/2026
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/849581900" data-search-result="5" data-document-id="849581900" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="849581900" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Air National Guard Units</strong></p><p>Department of the Air Force</p><p>Portland, Oregon</p><p>142nd Wing</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $72,511 Per year (GS 10)</p><p>Indefinite with Conversion Rights; May convert to Permanent without further competition; Not to exceed 5 years without tenure conversion. • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/05/2025 to 12/05/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850358500" data-search-result="6" data-document-id="850358500" class="no-underline">BUDGET ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850358500" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>U.S. Northern Command</strong></p><p>Department of the Air Force</p><p>Fort Eustis, Virginia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $75,038 Per year (GS 11)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to certain current or former term or temporary federal employees of a land or base management agency."><title>Jobs open to certain current or former term or temporary federal employees of a land or base management agency.</title><use xlink:href="/img/icons/hiringpaths.svg#land"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service."><title>Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.</title><use xlink:href="/img/icons/hiringpaths.svg#vet"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/19/2025 to 12/02/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/846636800" data-search-result="7" data-document-id="846636800" class="no-underline">Program Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="846636800" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Homeland Security - Agency Wide</strong></p><p>Department of Homeland Security</p><p>Anywhere in the U.S. (remote job)</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $88,621 Per year (GS 12-14)</p><p>Detail • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 09/23/2025 to 03/23/2026
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/845755400" data-search-result="8" data-document-id="845755400" class="no-underline">Program Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="845755400" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Homeland Security - Agency Wide</strong></p><p>Department of Homeland Security</p><p>Anywhere in the U.S. (remote job)</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $105,383 Per year (GS 13-14)</p><p>Detail • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 09/11/2025 to 03/11/2026
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/845270500" data-search-result="9" data-document-id="845270500" class="no-underline">Criminal Analyst (Investigative Analyst)</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="845270500" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Homeland Security - Agency Wide</strong></p><p>Department of Homeland Security</p><p>Multiple Locations</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $107,733 Per year (GS 13)</p><p>Detail • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 09/08/2025 to 03/08/2026
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850232700" data-search-result="10" data-document-id="850232700" class="no-underline">Program Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850232700" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Veterans Health Administration</strong></p><p>Department of Veterans Affairs</p><p>Anywhere in the U.S. (remote job)</p><p>Office of Suicide Prevention (OSP), Veterans Crisis Line (VCL)</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $61,111 Per year (GS 9)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/18/2025 to 11/24/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/828681600" data-search-result="11" data-document-id="828681600" class="no-underline">Investigative Analyst (Criminal Analyst)</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="828681600" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Homeland Security - Agency Wide</strong></p><p>Department of Homeland Security</p><p>Multiple Locations</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $97,376 Per year (GS 12-13)</p><p>Detail • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 12/17/2024 to 12/16/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/848094000" data-search-result="12" data-document-id="848094000" class="no-underline">MANAGEMENT ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="848094000" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Air National Guard Units</strong></p><p>Department of the Air Force</p><p>Portland, Oregon</p><p>142nd Wing</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $72,511 Per year (GS 10)</p><p>Indefinite with Conversion Rights; May convert to Permanent without further competition; Not to exceed 5 years without tenure conversion • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 10/14/2025 to 12/18/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850220600" data-search-result="13" data-document-id="850220600" class="no-underline">Program Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850220600" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Veterans Health Administration</strong></p><p>Department of Veterans Affairs</p><p>Anywhere in the U.S. (remote job)</p><p>Veterans Crisis Line (VCL), Office of Suicide Prevention (OSP)</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $105,383 Per year (GS 13)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-emergency" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/17/2025 to 11/21/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850355300" data-search-result="14" data-document-id="850355300" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850355300" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Military Sealift Command</strong></p><p>Department of the Navy</p><p>Naval Base, Norfolk, Virginia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $89,939 Per year (GS 12)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to certain current or former term or temporary federal employees of a land or base management agency."><title>Jobs open to certain current or former term or temporary federal employees of a land or base management agency.</title><use xlink:href="/img/icons/hiringpaths.svg#land"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service."><title>Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.</title><use xlink:href="/img/icons/hiringpaths.svg#vet"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those who are eligible under Schedule A."><title>Jobs open to those who are eligible under Schedule A.</title><use xlink:href="/img/icons/hiringpaths.svg#disability"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations."><title>Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations.</title><use xlink:href="/img/icons/hiringpaths.svg#special-authorities"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/19/2025 to 11/24/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/849365100" data-search-result="15" data-document-id="849365100" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="849365100" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Air National Guard Units</strong></p><p>Department of the Air Force</p><p>Camp Murray, Washington</p><p>194 CEF</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $75,638 Per year (GS 10)</p><p>Indefinite, *See Additional Informationi Section • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S."><title>Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.</title><use xlink:href="/img/icons/hiringpaths.svg#public"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/03/2025 to 12/02/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850122400" data-search-result="16" data-document-id="850122400" class="no-underline">BUDGET ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850122400" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Headquarters, Air Force Reserve Command</strong></p><p>Department of the Air Force</p><p>Andrews AFB, Maryland</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $84,601 Per year (GS 11)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to certain current or former term or temporary federal employees of a land or base management agency."><title>Jobs open to certain current or former term or temporary federal employees of a land or base management agency.</title><use xlink:href="/img/icons/hiringpaths.svg#land"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service."><title>Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.</title><use xlink:href="/img/icons/hiringpaths.svg#vet"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those who are eligible under Schedule A."><title>Jobs open to those who are eligible under Schedule A.</title><use xlink:href="/img/icons/hiringpaths.svg#disability"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas."><title>Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas.</title><use xlink:href="/img/icons/hiringpaths.svg#overseas"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those who have completed at least 1 year of service with Peace Corps or AmeriCorps Vista."><title>Jobs open to those who have completed at least 1 year of service with Peace Corps or AmeriCorps Vista.</title><use xlink:href="/img/icons/hiringpaths.svg#peace"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-emergency" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/14/2025 to 11/21/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850320900" data-search-result="17" data-document-id="850320900" class="no-underline">CASE ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850320900" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Field Operating Offices of the Office of the Secretary of the Army</strong></p><p>Department of the Army</p><p>Arlington County, Virginia</p><p>DEPT ARMY REVIEW BOARDS AGY CLEMENCY &amp; PAROLE</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $120,579 Per year (GS 13)</p><p>Not-To-Exceed (NTE) 18 months • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S."><title>Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.</title><use xlink:href="/img/icons/hiringpaths.svg#public"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/18/2025 to 11/24/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850192800" data-search-result="18" data-document-id="850192800" class="no-underline">MANAGEMENT ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850192800" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Air National Guard Units</strong></p><p>Department of the Air Force</p><p>Toledo, Ohio</p><p>180 Fighter Wing/MOF</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $74,230 Per year (GS 10)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/17/2025 to 12/17/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850350400" data-search-result="19" data-document-id="850350400" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850350400" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Military Sealift Command</strong></p><p>Department of the Navy</p><p>Naval Base, Norfolk, Virginia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $89,939 Per year (GS 12)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to certain current or former term or temporary federal employees of a land or base management agency."><title>Jobs open to certain current or former term or temporary federal employees of a land or base management agency.</title><use xlink:href="/img/icons/hiringpaths.svg#land"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service."><title>Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.</title><use xlink:href="/img/icons/hiringpaths.svg#vet"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those who are eligible under Schedule A."><title>Jobs open to those who are eligible under Schedule A.</title><use xlink:href="/img/icons/hiringpaths.svg#disability"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations."><title>Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations.</title><use xlink:href="/img/icons/hiringpaths.svg#special-authorities"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/19/2025 to 11/25/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850411900" data-search-result="20" data-document-id="850411900" class="no-underline">Financial Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850411900" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Commander, Navy Installations</strong></p><p>Department of the Navy</p><p>Chinhae, South Korea</p><p>CNRK- Commander, Navy Region Korea N94</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $75,000 Per year (NF 4)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S."><title>Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.</title><use xlink:href="/img/icons/hiringpaths.svg#public"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas."><title>Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas.</title><use xlink:href="/img/icons/hiringpaths.svg#overseas"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/14/2025 to 11/27/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/838021600" data-search-result="21" data-document-id="838021600" class="no-underline">Watch Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="838021600" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Department of Homeland Security - Agency Wide</strong></p><p>Department of Homeland Security</p><p>Washington, District of Columbia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $101,401 Per year (GS 12-13)</p><p>Detail • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current excepted service federal employees."><title>Jobs open to current excepted service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-excepted"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 06/03/2025 to 03/26/2026
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/849175700" data-search-result="22" data-document-id="849175700" class="no-underline">Budget Analyst</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="849175700" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>Treasury, Departmental Offices</strong></p><p>Department of the Treasury</p><p>Washington, District of Columbia</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $69,923 Per year (GS 9-13)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S."><title>Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.</title><use xlink:href="/img/icons/hiringpaths.svg#public"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-gray-dark" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 10/31/2025 to 12/30/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/850286500" data-search-result="23" data-document-id="850286500" class="no-underline">BUDGET ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="850286500" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>United States Space Force</strong></p><p>Department of the Air Force</p><p>Peterson AFB, Colorado</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $34,454 Per year (NH 2)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs only open to current federal employees of the agency."><title>Jobs only open to current federal employees of the agency.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-internal-search"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-warning" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/17/2025 to 11/24/2025
+            </div>
+        </div><div class="border border-gray-lighter bg-white p-4">
+            <div class="flex justify-between items-start">
+                <h2 class="font-normal mr-2 mt-0"><a href="/job/849627100" data-search-result="24" data-document-id="849627100" class="no-underline">PROGRAM ANALYST</a></h2>
+                <button class="flex whitespace-nowrap flex-nowrap items-center cursor-pointer text-sm" data-save-job="849627100" data-save="true">
+                <svg class="w-4 h-4 fill-warning-dark mr-1" role="presentation"><use xlink:href="/img/icons/sprite.svg#star_outline"></use></svg>
+                Save job
+            </button>
+            </div>
+            <div class="w-full md:flex md:justify-between md:gap-x-2">
+                <div class="basis-2/3">
+                    <p><strong>U.S. Army Corps of Engineers</strong></p><p>Department of the Army</p><p>Winchester, Virginia</p><p>USACE Middle East District Poject Controls Branch</p>
+                </div>
+                <div class="text-gray-dark basis-1/3">
+                    <p>Starting at $57,164 Per year (GS 7-11)</p><p>Permanent • Full-time</p>
+                    <p class="text-sm flex flex-wrap items-center gap-x-2"><span class="md:hidden">This job open to:</span><svg class="w-7 h-7" role="img" aria-label="Jobs open to current or former competitive service federal employees."><title>Jobs open to current or former competitive service federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-competitive"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to " surplus"="" or="" "displaced"="" federal="" employees."=""><title>Jobs open to "surplus" or "displaced" federal employees.</title><use xlink:href="/img/icons/hiringpaths.svg#fed-transition"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to certain current or former term or temporary federal employees of a land or base management agency."><title>Jobs open to certain current or former term or temporary federal employees of a land or base management agency.</title><use xlink:href="/img/icons/hiringpaths.svg#land"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service."><title>Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.</title><use xlink:href="/img/icons/hiringpaths.svg#vet"></use></svg><svg class="w-7 h-7" role="img" aria-label="Competitive service jobs that military spouses may be eligible to apply for."><title>Competitive service jobs that military spouses may be eligible to apply for.</title><use xlink:href="/img/icons/hiringpaths.svg#mspouse"></use></svg><svg class="w-7 h-7" role="img" aria-label="Jobs open to current National Guard members or a transitioning military member."><title>Jobs open to current National Guard members or a transitioning military member.</title><use xlink:href="/img/icons/hiringpaths.svg#nguard"></use></svg></p>
+                </div>
+            </div>
+            <div class="mt-4 text-sm italic text-gray-dark flex flex-nowrap items-center gap-x-1">
+                <svg class="w-4 h-4 fill-emergency" role="presentation"><use xlink:href="/img/icons/sprite.svg#schedule"></use></svg> Open 11/10/2025 to 11/19/2025
+            </div>
+        </div></div>
