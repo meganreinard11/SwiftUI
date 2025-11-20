@@ -11,6 +11,1204 @@ Payload:
 
 
 
+{
+    "TeaserName": "",
+    "Total": "201",
+    "Pager": {
+        "IsPaged": true,
+        "NumberOfPages": 9,
+        "NumberOfItems": 201,
+        "ItemsPerPage": 25,
+        "IsUnpaged": false,
+        "CurrentPageIndex": 1,
+        "NextPageIndex": 2,
+        "LastPageIndex": 9,
+        "FirstPageIndex": 1,
+        "UseCurrentRequestPath": false,
+        "HasNextPage": true,
+        "HasPreviousPage": false,
+        "PreviousPageIndex": 0,
+        "IsSegmented": false,
+        "IsEmpty": false,
+        "IsFirstSegment": true,
+        "IsLastSegment": true,
+        "FirstPageItem": 1,
+        "FirstPageItemFormatted": "1",
+        "LastPageItem": 25,
+        "LastPageItemFormatted": "25",
+        "TotalItemsFormatted": "201"
+    },
+    "Jobs": [
+        {
+            "Title": "Budget Analyst",
+            "Agency": "Department of Energy - Agency Wide",
+            "Department": "Department of Energy",
+            "SalaryDisplay": "Starting at $124,531 Per year (GS 14)",
+            "DocumentID": "850072000",
+            "PositionID": "26-PP-00087-12829266-IMP",
+            "Location": "Lexington, Kentucky",
+            "DateDisplay": "Open 11/14/2025 to 11/21/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-2",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "14",
+            "HighGrade": "14",
+            "JobGrade": "GS",
+            "LocationName": "Lexington, Kentucky",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850072000",
+            "Relocation": "True",
+            "MinimumRange": "124531",
+            "PositionEndDate": "2025-11-21T23:59:59.9970",
+            "SubAgency": "Office of Environmental Management"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Army National Guard Units",
+            "Department": "Department of the Army",
+            "SalaryDisplay": "Starting at $61,111 Per year (GS 9)",
+            "DocumentID": "848240700",
+            "PositionID": "SC-12816876-25-210-AR",
+            "Location": "Columbia, South Carolina",
+            "DateDisplay": "Open 10/16/2025 to 12/03/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "9",
+            "HighGrade": "9",
+            "JobGrade": "GS",
+            "LocationName": "Columbia, South Carolina",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/848240700",
+            "Relocation": "False",
+            "MinimumRange": "61111",
+            "PositionEndDate": "2025-12-03T23:59:59.9970"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Air Mobility Command",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $73,939 Per year (GS 11)",
+            "DocumentID": "850331600",
+            "PositionID": "4U-AFPC-12837126-989361-ESL",
+            "Location": "Charleston AFB, South Carolina",
+            "DateDisplay": "Open 11/18/2025 to 11/25/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "11",
+            "HighGrade": "11",
+            "JobGrade": "GS",
+            "LocationName": "Charleston AFB, South Carolina",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850331600",
+            "Relocation": "False",
+            "MinimumRange": "73939",
+            "PositionEndDate": "2025-11-25T23:59:59.9970"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Army National Guard Units",
+            "Department": "Department of the Army",
+            "SalaryDisplay": "Starting at $61,111 Per year (GS 9)",
+            "DocumentID": "849079400",
+            "PositionID": "ID-12816616-AR-25-4211",
+            "Location": "Boise, Idaho",
+            "DateDisplay": "Open 10/29/2025 to 12/14/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "THIS POSITION IS INDEFINITE, NTE 5 YEARS WITH THE POSSIBILITY TO NON-COMPETITIVELY CONVERT AT A LATER DATE.",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "9",
+            "HighGrade": "9",
+            "JobGrade": "GS",
+            "LocationName": "Boise, Idaho",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/849079400",
+            "Relocation": "False",
+            "MinimumRange": "61111",
+            "PositionEndDate": "2025-12-14T23:59:59.9970"
+        },
+        {
+            "Title": "Resource Analyst",
+            "Agency": "Central Intelligence Agency",
+            "Department": "Other Agencies and Independent Organizations",
+            "SalaryDisplay": "Starting at $81,576 Per year (GS 9-13)",
+            "DocumentID": "722317000",
+            "PositionID": "23-11942882-7015/SEHD",
+            "Location": "Washington, District of Columbia",
+            "DateDisplay": "Open 10/01/2025 to 09/30/2026",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "public",
+                    "Tooltip": "Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "9",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Washington, District of Columbia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/722317000",
+            "Relocation": "True",
+            "MinimumRange": "81576",
+            "PositionEndDate": "2026-09-30T23:59:59.9970"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Air National Guard Units",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $72,511 Per year (GS 10)",
+            "DocumentID": "849581900",
+            "PositionID": "OR-12808944-AF-26-008",
+            "Location": "Portland, Oregon",
+            "DateDisplay": "Open 11/05/2025 to 12/05/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Indefinite with Conversion Rights; May convert to Permanent without further competition; Not to exceed 5 years without tenure conversion.",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "10",
+            "HighGrade": "10",
+            "JobGrade": "GS",
+            "LocationName": "Portland, Oregon",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/849581900",
+            "Relocation": "True",
+            "MinimumRange": "72511",
+            "PositionEndDate": "2025-12-05T23:59:59.9970",
+            "SubAgency": "142nd Wing"
+        },
+        {
+            "Title": "BUDGET ANALYST",
+            "Agency": "U.S. Northern Command",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $75,038 Per year (GS 11)",
+            "DocumentID": "850358500",
+            "PositionID": "9B-AFPC-12836897-983769-DCM",
+            "Location": "Fort Eustis, Virginia",
+            "DateDisplay": "Open 11/19/2025 to 12/02/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "land",
+                    "Tooltip": "Jobs open to certain current or former term or temporary federal employees of a land or base management agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "vet",
+                    "Tooltip": "Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "11",
+            "HighGrade": "11",
+            "JobGrade": "GS",
+            "LocationName": "Fort Eustis, Virginia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850358500",
+            "Relocation": "False",
+            "MinimumRange": "75038",
+            "PositionEndDate": "2025-12-02T23:59:59.9970"
+        },
+        {
+            "Title": "Program Analyst",
+            "Agency": "Department of Homeland Security - Agency Wide",
+            "Department": "Department of Homeland Security",
+            "SalaryDisplay": "Starting at $88,621 Per year (GS 12-14)",
+            "DocumentID": "846636800",
+            "PositionID": "JDP-12806008-25-DJ",
+            "Location": "Anywhere in the U.S. (remote job)",
+            "DateDisplay": "Open 09/23/2025 to 03/23/2026",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Detail",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "12",
+            "HighGrade": "14",
+            "JobGrade": "GS",
+            "LocationName": "Anywhere in the U.S. (remote job), United States",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/846636800",
+            "Relocation": "False",
+            "MinimumRange": "88621",
+            "PositionEndDate": "2026-03-23T23:59:59.9970"
+        },
+        {
+            "Title": "Program Analyst",
+            "Agency": "Department of Homeland Security - Agency Wide",
+            "Department": "Department of Homeland Security",
+            "SalaryDisplay": "Starting at $105,383 Per year (GS 13-14)",
+            "DocumentID": "845755400",
+            "PositionID": "JDP-12800682-25-DJ",
+            "Location": "Anywhere in the U.S. (remote job)",
+            "DateDisplay": "Open 09/11/2025 to 03/11/2026",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Detail",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "13",
+            "HighGrade": "14",
+            "JobGrade": "GS",
+            "LocationName": "Anywhere in the U.S. (remote job), United States",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/845755400",
+            "Relocation": "False",
+            "MinimumRange": "105383",
+            "PositionEndDate": "2026-03-11T23:59:59.9970"
+        },
+        {
+            "Title": "Criminal Analyst (Investigative Analyst)",
+            "Agency": "Department of Homeland Security - Agency Wide",
+            "Department": "Department of Homeland Security",
+            "SalaryDisplay": "Starting at $107,733 Per year (GS 13)",
+            "DocumentID": "845270500",
+            "PositionID": "JDP-12796563-25-DJ",
+            "Location": "Multiple Locations",
+            "DateDisplay": "Open 09/08/2025 to 03/08/2026",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Detail",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "13",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Charlotte, North Carolina",
+            "PositionLocationCount": "2",
+            "PositionURI": "https://www.usajobs.gov:443/job/845270500",
+            "Relocation": "False",
+            "MinimumRange": "107733",
+            "PositionEndDate": "2026-03-08T23:59:59.9970"
+        },
+        {
+            "Title": "Program Analyst",
+            "Agency": "Veterans Health Administration",
+            "Department": "Department of Veterans Affairs",
+            "SalaryDisplay": "Starting at $61,111 Per year (GS 9)",
+            "DocumentID": "850232700",
+            "PositionID": "CBZY-12831120-26-MR",
+            "Location": "Anywhere in the U.S. (remote job)",
+            "DateDisplay": "Open 11/18/2025 to 11/24/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "9",
+            "HighGrade": "9",
+            "JobGrade": "GS",
+            "LocationName": "Anywhere in the U.S. (remote job), United States",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850232700",
+            "Relocation": "False",
+            "MinimumRange": "61111",
+            "PositionEndDate": "2025-11-24T23:59:59.9970",
+            "SubAgency": "Office of Suicide Prevention (OSP), Veterans Crisis Line (VCL)"
+        },
+        {
+            "Title": "Investigative Analyst (Criminal Analyst)",
+            "Agency": "Department of Homeland Security - Agency Wide",
+            "Department": "Department of Homeland Security",
+            "SalaryDisplay": "Starting at $97,376 Per year (GS 12-13)",
+            "DocumentID": "828681600",
+            "PositionID": "JDP-12649029-25-KJ",
+            "Location": "Multiple Locations",
+            "DateDisplay": "Open 12/17/2024 to 12/16/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Detail",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "12",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Scottsdale, Arizona",
+            "PositionLocationCount": "2",
+            "PositionURI": "https://www.usajobs.gov:443/job/828681600",
+            "Relocation": "False",
+            "MinimumRange": "97376",
+            "PositionEndDate": "2025-12-16T23:59:59.9970"
+        },
+        {
+            "Title": "MANAGEMENT ANALYST",
+            "Agency": "Air National Guard Units",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $72,511 Per year (GS 10)",
+            "DocumentID": "848094000",
+            "PositionID": "OR-12812315-AF-26-015",
+            "Location": "Portland, Oregon",
+            "DateDisplay": "Open 10/14/2025 to 12/18/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Indefinite with Conversion Rights; May convert to Permanent without further competition; Not to exceed 5 years without tenure conversion",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "10",
+            "HighGrade": "10",
+            "JobGrade": "GS",
+            "LocationName": "Portland, Oregon",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/848094000",
+            "Relocation": "False",
+            "MinimumRange": "72511",
+            "PositionEndDate": "2025-12-18T23:59:59.9970",
+            "SubAgency": "142nd Wing"
+        },
+        {
+            "Title": "Program Analyst",
+            "Agency": "Veterans Health Administration",
+            "Department": "Department of Veterans Affairs",
+            "SalaryDisplay": "Starting at $105,383 Per year (GS 13)",
+            "DocumentID": "850220600",
+            "PositionID": "CBZY-12831304-26-SG",
+            "Location": "Anywhere in the U.S. (remote job)",
+            "DateDisplay": "Open 11/17/2025 to 11/21/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-2",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "13",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Anywhere in the U.S. (remote job), United States",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850220600",
+            "Relocation": "False",
+            "MinimumRange": "105383",
+            "PositionEndDate": "2025-11-21T23:59:59.9970",
+            "SubAgency": "Veterans Crisis Line (VCL), Office of Suicide Prevention (OSP)"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Military Sealift Command",
+            "Department": "Department of the Navy",
+            "SalaryDisplay": "Starting at $89,939 Per year (GS 12)",
+            "DocumentID": "850355300",
+            "PositionID": "ST-12833394-26-WEJ",
+            "Location": "Naval Base, Norfolk, Virginia",
+            "DateDisplay": "Open 11/19/2025 to 11/24/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "land",
+                    "Tooltip": "Jobs open to certain current or former term or temporary federal employees of a land or base management agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "vet",
+                    "Tooltip": "Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "disability",
+                    "Tooltip": "Jobs open to those who are eligible under Schedule A.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "special-authorities",
+                    "Tooltip": "Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "12",
+            "HighGrade": "12",
+            "JobGrade": "GS",
+            "LocationName": "Naval Base, Norfolk, Virginia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850355300",
+            "Relocation": "True",
+            "MinimumRange": "89939",
+            "PositionEndDate": "2025-11-24T23:59:59.9970"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Air National Guard Units",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $75,638 Per year (GS 10)",
+            "DocumentID": "849365100",
+            "PositionID": "WA-12829058-AF-25-0446RB1",
+            "Location": "Camp Murray, Washington",
+            "DateDisplay": "Open 11/03/2025 to 12/02/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Indefinite, *See Additional Informationi Section",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "public",
+                    "Tooltip": "Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "10",
+            "HighGrade": "10",
+            "JobGrade": "GS",
+            "LocationName": "Camp Murray, Washington",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/849365100",
+            "Relocation": "False",
+            "MinimumRange": "75638",
+            "PositionEndDate": "2025-12-02T23:59:59.9970",
+            "SubAgency": "194 CEF"
+        },
+        {
+            "Title": "BUDGET ANALYST",
+            "Agency": "Headquarters, Air Force Reserve Command",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $84,601 Per year (GS 11)",
+            "DocumentID": "850122400",
+            "PositionID": "8Q-AFPC-12834794-951770-ACN",
+            "Location": "Andrews AFB, Maryland",
+            "DateDisplay": "Open 11/14/2025 to 11/21/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-2",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "land",
+                    "Tooltip": "Jobs open to certain current or former term or temporary federal employees of a land or base management agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "vet",
+                    "Tooltip": "Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "disability",
+                    "Tooltip": "Jobs open to those who are eligible under Schedule A.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "overseas",
+                    "Tooltip": "Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "peace",
+                    "Tooltip": "Jobs open to those who have completed at least 1 year of service with Peace Corps or AmeriCorps Vista.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "11",
+            "HighGrade": "11",
+            "JobGrade": "GS",
+            "LocationName": "Andrews AFB, Maryland",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850122400",
+            "Relocation": "False",
+            "MinimumRange": "84601",
+            "PositionEndDate": "2025-11-21T23:59:59.9970"
+        },
+        {
+            "Title": "CASE ANALYST",
+            "Agency": "Field Operating Offices of the Office of the Secretary of the Army",
+            "Department": "Department of the Army",
+            "SalaryDisplay": "Starting at $120,579 Per year (GS 13)",
+            "DocumentID": "850320900",
+            "PositionID": "DAHT261512966823HP",
+            "Location": "Arlington County, Virginia",
+            "DateDisplay": "Open 11/18/2025 to 11/24/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Not-To-Exceed (NTE) 18 months",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "public",
+                    "Tooltip": "Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "13",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Arlington County, Virginia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850320900",
+            "Relocation": "False",
+            "MinimumRange": "120579",
+            "PositionEndDate": "2025-11-24T23:59:59.9970",
+            "SubAgency": "DEPT ARMY REVIEW BOARDS AGY CLEMENCY & PAROLE"
+        },
+        {
+            "Title": "MANAGEMENT ANALYST",
+            "Agency": "Air National Guard Units",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $74,230 Per year (GS 10)",
+            "DocumentID": "850192800",
+            "PositionID": "OH-12825733-AF-25-309-C",
+            "Location": "Toledo, Ohio",
+            "DateDisplay": "Open 11/17/2025 to 12/17/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "10",
+            "HighGrade": "10",
+            "JobGrade": "GS",
+            "LocationName": "Toledo, Ohio",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850192800",
+            "Relocation": "False",
+            "MinimumRange": "74230",
+            "PositionEndDate": "2025-12-17T23:59:59.9970",
+            "SubAgency": "180 Fighter Wing/MOF"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "Military Sealift Command",
+            "Department": "Department of the Navy",
+            "SalaryDisplay": "Starting at $89,939 Per year (GS 12)",
+            "DocumentID": "850350400",
+            "PositionID": "ST-12836369-26-RMM",
+            "Location": "Naval Base, Norfolk, Virginia",
+            "DateDisplay": "Open 11/19/2025 to 11/25/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "land",
+                    "Tooltip": "Jobs open to certain current or former term or temporary federal employees of a land or base management agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "vet",
+                    "Tooltip": "Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "disability",
+                    "Tooltip": "Jobs open to those who are eligible under Schedule A.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "special-authorities",
+                    "Tooltip": "Jobs open to those eligible under a special authority not listed above, but defined in the federal hiring regulations.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "12",
+            "HighGrade": "12",
+            "JobGrade": "GS",
+            "LocationName": "Naval Base, Norfolk, Virginia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850350400",
+            "Relocation": "True",
+            "MinimumRange": "89939",
+            "PositionEndDate": "2025-11-25T23:59:59.9970"
+        },
+        {
+            "Title": "Financial Analyst",
+            "Agency": "Commander, Navy Installations",
+            "Department": "Department of the Navy",
+            "SalaryDisplay": "Starting at $75,000 Per year (NF 4)",
+            "DocumentID": "850411900",
+            "PositionID": "FFR25-1050",
+            "Location": "Chinhae, South Korea",
+            "DateDisplay": "Open 11/14/2025 to 11/27/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "public",
+                    "Tooltip": "Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "overseas",
+                    "Tooltip": "Jobs open to family members of a federal employee or uniformed service member who is or was, working overseas.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "4",
+            "HighGrade": "4",
+            "JobGrade": "NF",
+            "LocationName": "Chinhae, South Korea",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850411900",
+            "Relocation": "True",
+            "MinimumRange": "75000",
+            "PositionEndDate": "2025-11-27T23:59:59.9970",
+            "SubAgency": "CNRK- Commander, Navy Region Korea N94"
+        },
+        {
+            "Title": "Watch Analyst",
+            "Agency": "Department of Homeland Security - Agency Wide",
+            "Department": "Department of Homeland Security",
+            "SalaryDisplay": "Starting at $101,401 Per year (GS 12-13)",
+            "DocumentID": "838021600",
+            "PositionID": "JDP-12743361-25-KW",
+            "Location": "Washington, District of Columbia",
+            "DateDisplay": "Open 06/03/2025 to 03/26/2026",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Detail",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-excepted",
+                    "Tooltip": "Jobs open to current excepted service federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "12",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Washington, District of Columbia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/838021600",
+            "Relocation": "False",
+            "MinimumRange": "101401",
+            "PositionEndDate": "2026-03-26T23:59:59.9970"
+        },
+        {
+            "Title": "Budget Analyst",
+            "Agency": "Treasury, Departmental Offices",
+            "Department": "Department of the Treasury",
+            "SalaryDisplay": "Starting at $69,923 Per year (GS 9-13)",
+            "DocumentID": "849175700",
+            "PositionID": "26-DO-12816514-P",
+            "Location": "Washington, District of Columbia",
+            "DateDisplay": "Open 10/31/2025 to 12/30/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "public",
+                    "Tooltip": "Jobs open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "9",
+            "HighGrade": "13",
+            "JobGrade": "GS",
+            "LocationName": "Washington, District of Columbia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/849175700",
+            "Relocation": "False",
+            "MinimumRange": "69923",
+            "PositionEndDate": "2025-12-30T23:59:59.9970"
+        },
+        {
+            "Title": "BUDGET ANALYST",
+            "Agency": "United States Space Force",
+            "Department": "Department of the Air Force",
+            "SalaryDisplay": "Starting at $34,454 Per year (NH 2)",
+            "DocumentID": "850286500",
+            "PositionID": "6X-AFPC-12836700-979331-AJM",
+            "Location": "Peterson AFB, Colorado",
+            "DateDisplay": "Open 11/17/2025 to 11/24/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "job-closing-in-7",
+            "HiringPath": [
+                {
+                    "Code": "fed-internal-search",
+                    "Tooltip": "Jobs only open to current federal employees of the agency.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "2",
+            "HighGrade": "2",
+            "JobGrade": "NH",
+            "LocationName": "Peterson AFB, Colorado",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/850286500",
+            "Relocation": "False",
+            "MinimumRange": "34454",
+            "PositionEndDate": "2025-11-24T23:59:59.9970"
+        },
+        {
+            "Title": "PROGRAM ANALYST",
+            "Agency": "U.S. Army Corps of Engineers",
+            "Department": "Department of the Army",
+            "SalaryDisplay": "Starting at $57,164 Per year (GS 7-11)",
+            "DocumentID": "849627100",
+            "PositionID": "CEDB-26-12829840-MP",
+            "Location": "Winchester, Virginia",
+            "DateDisplay": "Open 11/10/2025 to 11/19/2025",
+            "WorkSchedule": "Full-time",
+            "WorkType": "Permanent",
+            "ClockDisplay": "",
+            "HiringPath": [
+                {
+                    "Code": "fed-competitive",
+                    "Tooltip": "Jobs open to current or former competitive service federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "fed-transition",
+                    "Tooltip": "Jobs open to \"surplus\" or \"displaced\" federal employees.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "land",
+                    "Tooltip": "Jobs open to certain current or former term or temporary federal employees of a land or base management agency.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "vet",
+                    "Tooltip": "Jobs open to those eligible for veterans' preference or separated from the Armed Forces under honorable conditions after 3 years, or more, of continuous military service.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "mspouse",
+                    "Tooltip": "Competitive service jobs that military spouses may be eligible to apply for.",
+                    "IsSearchFilter": false
+                },
+                {
+                    "Code": "nguard",
+                    "Tooltip": "Jobs open to current National Guard members or a transitioning military member.",
+                    "IsSearchFilter": false
+                }
+            ],
+            "LowGrade": "7",
+            "HighGrade": "11",
+            "JobGrade": "GS",
+            "LocationName": "Winchester, Virginia",
+            "PositionLocationCount": "1",
+            "PositionURI": "https://www.usajobs.gov:443/job/849627100",
+            "Relocation": "False",
+            "MinimumRange": "57164",
+            "PositionEndDate": "2025-11-19T23:59:59.9970",
+            "SubAgency": "USACE Middle East District Poject Controls Branch"
+        }
+    ],
+    "Suggestion": [],
+    "IsRadialSearch": false,
+    "UniqueSearchID": "7d82dcdf-17a7-4b30-bb2e-e02be53432c0",
+    "IsValid": true,
+    "f": {
+        "ri": {
+            "relocation": 42
+        },
+        "ti": {
+            "telework": 81
+        },
+        "rmi": {
+            "0": 196,
+            "1": 5
+        },
+        "j": {
+            "1102": 1,
+            "1152": 2,
+            "1340": 1,
+            "1515": 5,
+            "1520": 1,
+            "1550": 1,
+            "1560": 1,
+            "1601": 1,
+            "1801": 4,
+            "1802": 1,
+            "1805": 5,
+            "1811": 1,
+            "1896": 1,
+            "2003": 2,
+            "2130": 1,
+            "2210": 24,
+            "4818": 1,
+            "0343": 72,
+            "0501": 27,
+            "0560": 14,
+            "0301": 12,
+            "0132": 11,
+            "0610": 4,
+            "0669": 4,
+            "0801": 4,
+            "0101": 3,
+            "0671": 2,
+            "0130": 1,
+            "0180": 1,
+            "0335": 1,
+            "0340": 1,
+            "0505": 1,
+            "0510": 1,
+            "0511": 1,
+            "0679": 1,
+            "0685": 1
+        },
+        "d": {
+            "AF": 78,
+            "AF00": 64,
+            "DD": 62,
+            "HS": 27,
+            "NV": 20,
+            "VA": 18,
+            "DD00": 17,
+            "AR": 14,
+            "HS00": 13,
+            "AR00": 7,
+            "OT": 6,
+            "NV00": 4,
+            "DN": 3,
+            "DJ": 2,
+            "ED": 2,
+            "LL": 2,
+            "TR": 2,
+            "HE": 1,
+            "HE00": 1,
+            "NN": 1,
+            "NN00": 1
+        },
+        "a": {
+            "AFNG": 38,
+            "VATA": 17,
+            "HS00": 11,
+            "DD07": 9,
+            "HSAB": 8,
+            "ARNG": 7,
+            "AF0J": 6,
+            "AF3T": 5,
+            "CI00": 5,
+            "HSBD": 5,
+            "AF0M": 4,
+            "AF1Y": 4,
+            "DD35": 4,
+            "NV52": 4,
+            "AF00": 3,
+            "AF1L": 3,
+            "AF4D": 3,
+            "ARCE": 3,
+            "DN00": 3,
+            "NV24": 3,
+            "NV60": 3,
+            "AF2S": 2,
+            "AF3D": 2,
+            "AF4G": 2,
+            "ARSB": 2,
+            "DD01": 2,
+            "DD12": 2,
+            "DD16": 2,
+            "DD27": 2,
+            "DD83": 2,
+            "DJ09": 2,
+            "EDEP": 2,
+            "LC00": 2,
+            "NV27": 2,
+            "NV30": 2,
+            "NV33": 2,
+            "NV70": 2,
+            "TR91": 2,
+            "AF07": 1,
+            "AF1M": 1,
+            "AF34": 1,
+            "AF3C": 1,
+            "AF6F": 1,
+            "AF6S": 1,
+            "ARJA": 1,
+            "ARXA": 1,
+            "DD04": 1,
+            "DD06": 1,
+            "HE70": 1,
+            "HSAA": 1,
+            "HSAC": 1,
+            "HSBB": 1,
+            "NN72": 1,
+            "NV12": 1,
+            "NV19": 1,
+            "RO00": 1,
+            "VAAA": 1
+        },
+        "ws": {
+            "1": 200,
+            "4": 1
+        },
+        "wt": {
+            "15317": 163,
+            "15318": 7,
+            "15319": 10,
+            "15320": 11,
+            "15321": 8,
+            "15327": 1,
+            "15328": 1
+        },
+        "sc": {
+            "0": 43,
+            "2": 74,
+            "3": 19,
+            "4": 29,
+            "5": 1,
+            "8": 35
+        },
+        "ps": {
+            "1": 25,
+            "2": 38,
+            "3": 10,
+            "4": 17,
+            "5": 5,
+            "6": 4
+        },
+        "t": {
+            "0": 49,
+            "1": 128,
+            "2": 20,
+            "5": 3,
+            "-1": 1
+        },
+        "hp": {
+            "fed-internal-search": 74,
+            "public": 67,
+            "fed-competitive": 63,
+            "fed-transition": 63,
+            "vet": 51,
+            "mspouse": 48,
+            "fed-excepted": 43,
+            "nguard": 41,
+            "disability": 29,
+            "land": 27,
+            "special-authorities": 19,
+            "overseas": 10,
+            "graduates": 6,
+            "peace": 5,
+            "student": 3
+        },
+        "mco": {
+            "NatSec": 42,
+            "Joint Duty Program": 11,
+            "IC Intel": 8,
+            "07": 7,
+            "AI": 2,
+            "TechToGov": 2,
+            "01": 1,
+            "Mission Critical": 1,
+            "NSWC Dahlgren Branded Page": 1,
+            "NSWC Indian Head Branded Page": 1,
+            "NUWC Keyport Branded Page": 1
+        }
+    }
+}
+
 
 
 -------------------------------
