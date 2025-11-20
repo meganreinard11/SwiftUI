@@ -1,5 +1,22 @@
-https://www.usajobs.gov/search/results/?k=Analyst&l=
+-------------------------------
+            POST
+-------------------------------
+URL:                     https://www.usajobs.gov/Search/ExecuteSearch
 
+Content-Type:            application/json; charset=utf-8
+
+Payload:                  
+
+{"Keyword":"Analyst","JobTitle":[],"GradeBucket":[],"JobCategoryCode":[],"JobCategoryFamily":[],"LocationName":[],"Department":[],"Agency":[],"PositionOfferingTypeCode":[],"TravelPercentage":[],"PositionScheduleTypeCode":[],"SecurityClearanceRequired":[],"PositionSensitivity":[],"JobGradeCode":[],"ShowAllFilters":[],"HiringPath":[],"SocTitle":[],"ResultsPerPage":25,"MCOTags":[],"CyberWorkRole":[],"CyberWorkGrouping":[]}
+
+
+
+
+
+-------------------------------
+            GET
+-------------------------------
+https://www.usajobs.gov/search/results/?k=Analyst&l=
 
 <div id="search-results" class="mt-4"><div class="border border-gray-lighter bg-white p-4">
             <div class="flex justify-between items-start">
