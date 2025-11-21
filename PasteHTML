@@ -1,0 +1,114 @@
+Version:1.0
+StartHTML:0000000193
+EndHTML:0000003279
+StartFragment:0000002008
+EndFragment:0000003227
+SourceURL:file:///C:/Users/megan/Documents/Bachelorette_Party_Planner_Tailored_v6.xlsm
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File
+href="file:///C:/Users/megan/AppData/Local/Temp/msohtmlclip1/01/clip.htm">
+<link rel=File-List
+href="file:///C:/Users/megan/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+td
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{text-align:center;
+	vertical-align:middle;}
+.xl66
+	{font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;}
+.xl67
+	{font-size:8.0pt;
+	text-align:center;
+	vertical-align:middle;}
+-->
+</style>
+</head>
+
+<body link=blue vlink=purple>
+
+<table border=0 cellpadding=0 cellspacing=0 width=512 style='border-collapse:
+ collapse;width:384pt'>
+<!--StartFragment--><!--StartFragment-->
+ <col width=64 span=8 style='width:48pt'>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl66 width=64 style='height:14.5pt;width:48pt'>ID</td>
+  <td class=xl66 width=64 style='width:48pt'>Title</td>
+  <td class=xl66 width=64 style='width:48pt'>Department</td>
+  <td class=xl66 width=64 style='width:48pt'>Location</td>
+  <td class=xl66 width=64 style='width:48pt'>Grade Type</td>
+  <td class=xl66 width=64 style='width:48pt'>Low Grade</td>
+  <td class=xl66 width=64 style='width:48pt'>High Grade</td>
+  <td class=xl66 width=64 style='width:48pt'>Duty</td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl67 style='height:14.5pt'>85689</td>
+  <td class=xl67>Financial Management Analyst</td>
+  <td class=xl67>Department of Defense</td>
+  <td class=xl67>Whitehall, OH</td>
+  <td class=xl67>GS</td>
+  <td class=xl67>7</td>
+  <td class=xl67>11</td>
+  <td class=xl67>Organize things</td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl67 style='height:14.5pt'></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+  <td class=xl67></td>
+ </tr>
+<!--EndFragment-->
+</table>
+
+</body>
+
+</html>
